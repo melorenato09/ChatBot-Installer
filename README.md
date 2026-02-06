@@ -9,7 +9,7 @@ O **ChatBot** é um assistente virtual inteligente desenvolvido para facilitar a
 - 💬 **Chat Histórico**: Salva o histórico de conversas para que possas continuar de onde paraste.  
 - 🌓 **Modo Escuro/Claro**: Alterna facilmente entre modos de visualização.  
 - 🪲 **Reportar Bugs**: Permite enviar feedback ou problemas diretamente via Telegram (em segurança).  
-- 📱 **Multi-Plataforma**: Inicialmente Android, com possibilidade de futuras versões para desktop.
+- 📱 **Multi-Plataforma**: Inicialmente Android, com possibilidade de futuras versões para ios.
 
 ## Objetivo
 
